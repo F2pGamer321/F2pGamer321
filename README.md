@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @F2pGamer321
+- 👀 I’m interested in making a game engine with c++.
+- 🌱 I’m currently learning c so that I can learn c++.
